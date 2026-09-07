@@ -25,8 +25,9 @@ Through a range of practical exercises and challenges, I developed a strong foun
 ## 📸 Project Overview
 
 <p align="center">
-
-<img src="https://github.com/user-attachments/assets/131b1d2c-7977-4158-8e4a-270beb324f34" alt="Python Fundamentals Overview" width="900" />
+    
+<img width="442" height="283" alt="image" src="https://github.com/user-attachments/assets/25e063dd-41e8-49d3-8488-882f6c0b370c" />
+<img width="442" height="281" alt="image" src="https://github.com/user-attachments/assets/ef260d0e-24c6-453c-8569-e214f085557f" />
 
 </p>
 
@@ -47,7 +48,10 @@ I built algorithms and interactive scripts to practice core programming structur
 
 <p align="center">
 
-<img src="https://github.com/user-attachments/assets/97bd6f19-b8ab-43e0-b7d2-94d4bfb4b7a0" alt="Python Script Execution" width="800" />
+
+
+<img width="505" height="470" alt="image" src="https://github.com/user-attachments/assets/5d8f3ed4-6cca-4ec3-bdc6-e2edeb75dfd5" />
+ />
 
 </p>
 
